@@ -1,6 +1,47 @@
-<h1 align="center">Hi 👋, I'm Mahavir Vora</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi there, I'm Mahavir
 
-- 📫 How to reach me **voramahavir@gmail.com**
+Welcome to my GitHub profile! I am an Engineering Manager based in India, passionate about building robust, scalable, and innovative software solutions.
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p>
+---
+
+## 💼 About Me
+
+- 🧑‍💻 **Role:** Engineering Manager in IT
+- 💡 **Expertise:** Angular, .NET Development, Cloud Solutions, Software Architecture, and Project Leadership
+- 🧠 **Interests:** Staying current with emerging technologies, contributing to open-source projects, and mentoring developers
+- ♟️ **Hobbies:** Chess & Coding
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** TypeScript, JavaScript, C#, SQL
+- **Frameworks:** Angular, .NET Framework, .NET Core
+- **Tools:** Visual Studio, Git, Azure DevOps
+- **Other:** Agile/Scrum, CI/CD, Software Design Patterns
+
+---
+
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mahavir-vora/)
+- [Email](mailto:voramahavir@gmail.com)
+- [Personal Website](https://mahavirvora.github.io)
+
+---
+
+## 🔭 Current Focus
+
+- Exploring **AI integrations** in enterprise applications
+- Migrating legacy systems to modern architectures
+- Contributing to **open-source projects** and sharing knowledge with the community
+
+---
+
+⭐️ *Thank you for visiting my profile. Feel free to explore my repositories and connect!*
